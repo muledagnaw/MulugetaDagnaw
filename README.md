@@ -129,10 +129,10 @@ Author/co-author of **10+ peer-reviewed journal articles and conference papers**
 
 ## 🎖️ Fellowships & Grants
 
-* **IMU–Simons Research Fellowship**, Brunel University London (2024–2025)
-* **Ghent University Research Fellowship**, Belgium (2023)
+* **IMU–Simons Research Fellowship**, Brunel University London, UK (2024–2025)
+* **Research Visiting**,Ghent University , Belgium (2023)
 * **Humboldt Foundation Research Stay**, TU Kaiserslautern, Germany (2019)
-* **International Science Programme (ISP)** Research Grant, UK (2018)
+* **International Science Programme (ISP)** Research Grant,Brunel University, UK (2018)
 
 ---
 
