@@ -3,7 +3,7 @@
 
 🔍 **Mathematician | Data Analyst | Data Technician**
 
-📍 London, UK
+📍 Witney, UK
 🔗 [LinkedIn](https://www.linkedin.com/in/mulugeta-alemayehu-dagnaw/) | [Google Scholar](https://scholar.google.com/citations?user=9TEFWOAAAAAJ&hl=en) | [ORCID](https://orcid.org/0000-0001-8214-5163)
 
 ---
@@ -105,11 +105,12 @@ PhD-trained mathematician and data analyst with extensive experience in **resear
 
 ---
 
-## 🗣️ Talks & Academic Presentations (Selected)
-
-* *Boundary-Domain Integral Equations for the Stokes Problem*, Brunel University London, 2024
-* *Boundary-Domain Integral Equations for the 2D Stokes Problem*, Ghent University, 2023
-* Multiple presentations at ISAAC Congress (Portugal) and international PDE workshops
+## 🗣️ Talks & Lectures
+- Mulugeta A. Dagnaw (2024), Boundary-domain integral equations for the Stokes problem in a 2D exterior domain, Seminar programme Dec 4, 2024
+- Mulugeta A.Dagnaw (2023). On Boundary-Domain Integral Equation for the two dimensional Stokes Problem. Methusalem Workshop on Classical Analysis and PDEs, Ghent University, Belgium, from February 27 to March 01, 2023
+- Mulugeta A.Dagnaw (2019). Boundary-Domain Integral Equation systems to the Dirichilet BVP for Compressible Stokes Equations with Variable Viscosity in 2D. Abstract: 12th International ISAAC Congress held in Aveiro, Portugal, from July 29 to August 02, 2019
+-  Mulugeta A.Dagnaw (2019). Boundary-Domain Integral Equation systems to the Neumann BVP for Compressible Stokes Equations with Variable Viscosity in 2D. Abstract: 12th International ISAAC Congress held in Aveiro, Portugal, from July 29 to August 02, 2019
+- Mulugeta A.Dagnaw (2018). Boundary-Domain Integral Equation Systems to the Dirichlet BVP for an incompressible Stokes Equations with variable viscosity in 2D. ASTU, Addis Ababa, Ethiopia, May 25, 2018
 
 ---
 
@@ -139,7 +140,7 @@ Author/co-author of **10+ peer-reviewed journal articles and conference papers**
 
 * Completing **Data Technician Level 3 Bootcamp**
 * Strengthening **SQL, Power BI, and cloud data skills**
-* Transitioning into **UK Data Analyst / BI roles**
+* Transitioning into **Data Analyst / BI roles**
 
 ---
 
@@ -154,16 +155,10 @@ Author/co-author of **10+ peer-reviewed journal articles and conference papers**
 
 ### 🤝 Open to Collaboration
 
-I’m open to **data analysis, BI, and entry-level data engineering opportunities**.
+I am open to **data analysis, BI, and entry-level data engineering opportunities**.
 Feel free to reach out — I’m happy to collaborate or discuss roles.
 
 ---
 
-If you want next:
-
-* 🔄 **Shorter recruiter version (1-page)**
-* 🎯 **Tailored for UK Data Analyst jobs**
-* 🧑‍💼 **Industry-focused (less academic) version**
-* ⭐ GitHub projects section written from scratch
 
 Just tell me 👍
