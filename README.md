@@ -1,5 +1,5 @@
-#  ![images](https://github.com/user-attachments/assets/ffc79207-65ae-43a3-925f-d02c4a458ae7)
-Mulugeta Alemayehu Dagnaw  
+  ![images](https://github.com/user-attachments/assets/ffc79207-65ae-43a3-925f-d02c4a458ae7)
+### Mulugeta Alemayehu Dagnaw  
 🔍 **Mathematics Educator | Data Analyst | Data Technician**  
 🌟 Passionate about mathematics and turning raw data into meaningful, actionable insights.  
 
