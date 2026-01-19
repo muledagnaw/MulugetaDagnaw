@@ -94,8 +94,6 @@ Technical Skills: Excel, Tableau, Power BI, Python, SQL, AWS, Azure, MATLAB, LaT
 10.	Lakew, D. A., & Dagnaw, M. A. Clifford Analysis on Orlicz-Sobolev Spaces. arXiv preprint arXiv:1409.8380, 2014
 
 
-- [Google scholar:]( https://scholar.google.co.uk/citations?user=9TEFWOAAAAAJ&hl=en&oi=ao)
-- [LinkedIn:](https://www.linkedin.com/in/mulugeta-alemayehu-dagnaw/)
 
 **Fellowships and Grants**
 - Academic research Visit granted by the IMU-Simons Research Fellowship Program, CDC (01.07.2024–23.01.2025) hosted by Prof. Dr. Sergey Mikhailov, Brunel University London, UK,
