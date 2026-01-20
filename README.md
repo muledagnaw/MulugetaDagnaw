@@ -86,16 +86,10 @@ Mathematics educator and data analyst with extensive experience in **research, t
 
 * Azure (Azure SQL Database, cloud storage)
 * AWS (foundational knowledge)
-* Git & GitHub
+* GitHub
 * Google sites
 
----
 
-## 📈 What I Do
-
-* **Data Analysis** – Clean, explore, and analyse structured datasets
-* **Data Engineering (Entry-Level)** – Support data pipelines and workflows
-* **Mathematical Modelling** – Apply advanced analytical thinking to real problems
 
 ---
 
