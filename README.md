@@ -32,12 +32,6 @@ Mathematics educator and data analyst with extensive experience in **research, t
 
 ## 💼 Professional Experience
 
-### **Research Visiting Fellow**
-
-**Brunel University London, UK** | *Jan 2025 – Present*
-
-* Conduct advanced mathematical research in applied analysis and PDEs
-* Collaborate with international researchers and contribute to ongoing projects
 
 ### **Academic Research Visitor**
 
