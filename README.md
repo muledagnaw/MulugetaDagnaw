@@ -35,7 +35,7 @@ Mathematics educator and data analyst with extensive experience in **research, t
 
 ### **Academic Research Visitor**
 
-**Brunel University London, UK** | *Jun 2024 – Jan 2025*
+**Brunel University London, UK** | *Aug 2024 – Jan 2025*
 
 * Produced original mathematical research and scholarly publications
 * Presented research at national and international conferences
