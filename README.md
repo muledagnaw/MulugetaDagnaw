@@ -94,7 +94,6 @@ Mathematics educator and data analyst with extensive experience in **research, t
 ## 📈 What I Do
 
 * **Data Analysis** – Clean, explore, and analyse structured datasets
-* **Business Intelligence** – Build dashboards and reports for decision-making
 * **Data Engineering (Entry-Level)** – Support data pipelines and workflows
 * **Mathematical Modelling** – Apply advanced analytical thinking to real problems
 
