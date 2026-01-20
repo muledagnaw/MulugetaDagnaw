@@ -77,7 +77,7 @@ Mathematics educator and data analyst with extensive experience in **research, t
 
 ### 💻 Programming & Databases
 
-* Python (Pandas, NumPy, Matplotlib, Seaborn)
+* Python (Pandas, NumPy, Matplotlib)
 * SQL / MySQL (joins, views, stored procedures)
 * MATLAB
 * LaTeX
@@ -87,6 +87,7 @@ Mathematics educator and data analyst with extensive experience in **research, t
 * Azure (Azure SQL Database, cloud storage)
 * AWS (foundational knowledge)
 * Git & GitHub
+* Google sites
 
 ---
 
