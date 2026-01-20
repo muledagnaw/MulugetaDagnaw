@@ -73,7 +73,7 @@ Mathematics educator and data analyst with extensive experience in **research, t
 
 ## 🛠️ Core Technical Skills
 
-### 📊 Data Analysis & BI
+### 📊 Data Analysis 
 
 * Excel (Advanced formulas, Pivot Tables, dashboards)
 * Power BI (DAX, data modelling, automated reports)
