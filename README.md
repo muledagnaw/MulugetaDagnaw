@@ -89,7 +89,6 @@ Mathematics educator and data analyst with extensive experience in **research, t
 ### ☁️ Cloud & Platforms
 
 * Azure (Azure SQL Database, cloud storage)
-* AWS (foundational knowledge)
 * GitHub
 * Google sites
 
