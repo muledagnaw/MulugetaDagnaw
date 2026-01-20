@@ -43,6 +43,10 @@ Mathematics educator and data analyst with extensive experience in **research, t
 
 ### **Community Outreach Volunteer**
 
+** Witney &West Oxfordshire Food bank, Assistant-Volunteer work **| *06/2025-Present*
+ * Managing donated food and related items
+ * unpacking deliveries, stocking shelves, and arranging displays
+   
 **Multaka Project – University of Oxford** | *Jan 2025 – Jun 2025*
 
 * Delivered public presentations on calendars, astronomy, and the spring equinox
