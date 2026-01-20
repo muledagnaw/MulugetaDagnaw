@@ -144,9 +144,9 @@ Author/co-author of **10+ peer-reviewed journal articles and conference papers**
 ### 🤝 Open to Collaboration
 
 I am open to **data analysis, BI, and entry-level data engineering opportunities**.
-Feel free to reach out — I’m happy to collaborate or discuss roles.
+Feel free to reach out — I am happy to collaborate or discuss roles.
 
 ---
 
 
-Just tell me 👍
+
