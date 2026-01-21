@@ -35,7 +35,7 @@ Mathematics educator and data analyst with extensive experience in **research, t
 * I have over seven years of experience in teaching, research, and data management across universities, and I am currently involved in volunteer work within my local community.
 ---
 
-## 🛠️ Core Technical Skills what I am Leraning
+## 🛠️ Core Technical Skills
 
 ### 📊 Data Analysis 
 
