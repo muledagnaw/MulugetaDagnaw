@@ -30,48 +30,12 @@ Mathematics educator and data analyst with extensive experience in **research, t
 
 ---
 
-## 💼 Professional Experience
+## 💼 Experience
 
-
-### **Academic Research Visitor**
-
-**Brunel University London, UK** | *Aug 2024 – Jan 2025*
-
-* Produced original mathematical research and scholarly publications
-* Presented research at national and international conferences
-* Engaged in academic seminars and collaborative research discussions
-
-### **Community Outreach Volunteer**
-
-** Witney &West Oxfordshire Food bank, Assistant-Volunteer work **| *06/2025-Present*
- * Managing donated food and related items
- * unpacking deliveries, stocking shelves, and arranging displays
-   
-**Multaka Project – University of Oxford** | *Jan 2025 – Jun 2025*
-
-* Delivered public presentations on calendars, astronomy, and the spring equinox
-* Explained historical scientific instruments during museum outreach events
-
-### **Lecturer & Data Support (Teaching and Data Entry)**
-
-**Injibara University, Ethiopia** | *Jan 2022 – Aug 2024*
-
-* Delivered undergraduate mathematics courses
-* Maintained student records, grades, and academic documentation
-* Used **Excel, MATLAB, LaTeX, PowerPoint, and Word** for teaching and data tasks
-
-### **Lecturer & Data Support (Teaching and Data Entry)**
-
-**Debre Tabor University, Ethiopia** | *Dec 2009 – Jan 2022*
-
-* Taught mathematics across multiple academic levels
-* Digitised paper-based records into structured spreadsheets
-* Organised, validated, and maintained academic datasets
-* Supported lesson planning and academic administration
-
+I have over seven years of experience in teaching, research, and data management across universities, and I am currently involved in volunteer work within my local community.
 ---
 
-## 🛠️ Core Technical Skills
+## 🛠️ Core Technical Skills what I am Leraning
 
 ### 📊 Data Analysis 
 
@@ -83,8 +47,6 @@ Mathematics educator and data analyst with extensive experience in **research, t
 
 * Python (Pandas, NumPy, Matplotlib)
 * SQL / MySQL (joins, views, stored procedures)
-* MATLAB
-* LaTeX
 
 ### ☁️ Cloud & Platforms
 
@@ -93,45 +55,12 @@ Mathematics educator and data analyst with extensive experience in **research, t
 * Google sites
 
 
-
----
-
-## 🗣️ Talks & Lectures
-- Mulugeta A. Dagnaw (2024), Boundary-domain integral equations for the Stokes problem in a 2D exterior domain, Seminar programme Dec 4, 2024
-- Mulugeta A.Dagnaw (2023). On Boundary-Domain Integral Equation for the two dimensional Stokes Problem. Methusalem Workshop on Classical Analysis and PDEs, Ghent University, Belgium, from February 27 to March 01, 2023
-- Mulugeta A.Dagnaw (2019). Boundary-Domain Integral Equation systems to the Dirichilet BVP for Compressible Stokes Equations with Variable Viscosity in 2D. Abstract: 12th International ISAAC Congress held in Aveiro, Portugal, from July 29 to August 02, 2019
--  Mulugeta A.Dagnaw (2019). Boundary-Domain Integral Equation systems to the Neumann BVP for Compressible Stokes Equations with Variable Viscosity in 2D. Abstract: 12th International ISAAC Congress held in Aveiro, Portugal, from July 29 to August 02, 2019
-- Mulugeta A.Dagnaw (2018). Boundary-Domain Integral Equation Systems to the Dirichlet BVP for an incompressible Stokes Equations with variable viscosity in 2D. ASTU, Addis Ababa, Ethiopia, May 25, 2018
-
----
-
-## 📚 Publications
-
-Author/co-author of **10+ peer-reviewed journal articles and conference papers** in applied mathematics and PDEs, including publications in:
-
-* *Results in Mathematics*
-* *Mathematical Methods in the Applied Sciences*
-* *Journal of Mathematical Sciences*
-* Springer conference proceedings
-
-📌 Full list available on **Google Scholar** and **ORCID**
-
----
-
-## 🎖️ Fellowships & Grants
-
-* **IMU–Simons Research Fellowship**, Brunel University London, UK (2024–2025)
-* **Research Visiting**,Ghent University , Belgium (2023)
-* **Humboldt Foundation Research Stay**, TU Kaiserslautern, Germany (2019)
-* **International Science Programme (ISP)** Research Grant,Brunel University, UK (2018)
-
 ---
 
 ## 🌱 Current Focus
 
-* Completing **Data Technician Level 3 Bootcamp**
 * Strengthening **SQL, Power BI, and cloud data skills**
-* Transitioning into **Data Analyst / BI roles**
+* Transitioning into **Data Analyst roles**
 
 ---
 
