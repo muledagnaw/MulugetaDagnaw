@@ -40,7 +40,8 @@ Mathematics educator and data analyst with extensive experience in **research, t
 * I wanted a structured, hands-on pathway to transition my mathematical and analytical skills into data role
 * passionate about exploring real-world datasets
 
-
+## During Data techinician Bootcam Training
+* I have developed the ability to analyse real‑world datasets using a range of software tools and cloud‑computing platforms.
 
 ## 🛠️ Core Technical Skills
 
