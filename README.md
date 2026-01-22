@@ -10,7 +10,7 @@
 
 ## 🧠 About
 
-Mathematics educator and data analyst with extensive experience in **research, teaching, and data handling** across academic and applied environments. Currently completing a **Level 3 Digital Skills Bootcamp (Data Technician)** in the UK, with hands-on experience in **data analysis, visualization, SQL, Python, and cloud platforms**. I have a strong interest in data analysis and applying mathematical concepts to uncover insights.
+I am a mathematics educator and data analyst with extensive experience in research, teaching, and data handling across academic and applied settings. I am currently completing a Level 3 Digital Skills Bootcamp (Data Technician), gaining experience in data analysis and visualization using Excel, Tableau, Power BI, SQL, Python, and cloud platform Azure. I have a strong interest in applying mathematical concepts to uncover meaningful insights from data.
 
 ---
 
