@@ -16,8 +16,7 @@ Mathematics educator and data analyst with extensive experience in **research, t
 
 ## 🎓 Education
 
-* **Digital Skills Bootcamp – Data Technician (Level 3),**
-  *Just IT Training Ltd, London, UK* | *Dec 2025 – Jan 2026*
+
   
 * **PhD in Mathematics,**
   *Addis Ababa University, Ethiopia* | *2015 – 2019*
