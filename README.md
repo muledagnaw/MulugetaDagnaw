@@ -35,15 +35,14 @@ Mathematics educator and data analyst with extensive experience in **research, t
 * I have over seven years of experience in teaching, research, and data management across universities, and I am currently involved in volunteer work within my local community.
 ---
 
-Absolutely! Here's a polished, GitHub-friendly version of your "Why Data Technician?" section with emojis for a more engaging look:
 
 ---
 
 ## 🚀 Why Data Technician?
 
-I wanted a **structured, hands-on pathway** to transition my 🧮 **mathematical** and 📊 **analytical skills** into a **data role**.
+* I wanted a **structured, hands-on pathway** to transition my 🧮 **mathematical** and 📊 **analytical skills** into a **data role**.
 
-I am **passionate about exploring real-world datasets** 🌎📈 and uncovering meaningful insights.
+* I am **passionate about exploring real-world datasets** 🌎📈 and uncovering meaningful insights.
 
 ---
 ## 🎓 During Data techinician Bootcam Training
