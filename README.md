@@ -39,8 +39,8 @@ Mathematics educator and data analyst with extensive experience in **research, t
 
 ### 📊 Data Analysis 
 
-* Excel (Advanced formulas, Pivot Tables, dashboards)
-* Power BI (DAX, data modelling, automated reports)
+* Excel (Advanced formulas, Pivot Tables)
+* Power BI (DAX, data modelling, automated reports, dashboards)
 * Tableau (interactive dashboards, calculated fields)
 
 ### 💻 Programming & Databases
@@ -59,7 +59,7 @@ Mathematics educator and data analyst with extensive experience in **research, t
 
 ## 🌱 Current Focus
 
-* Strengthening **SQL, Power BI, and cloud data skills**
+* Strengthening **SQL, Power BI, Tableau , Excel and cloud data skills**
 * Transitioning into **Data Analyst roles**
 
 ---
