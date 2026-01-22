@@ -35,6 +35,13 @@ Mathematics educator and data analyst with extensive experience in **research, t
 * I have over seven years of experience in teaching, research, and data management across universities, and I am currently involved in volunteer work within my local community.
 ---
 
+##  Why Data Technician?
+
+* I wanted a structured, hands-on pathway to transition my mathematical and analytical skills into data role
+* passionate about exploring real-world datasets
+
+
+
 ## 🛠️ Core Technical Skills
 
 ### 📊 Data Analysis 
@@ -54,6 +61,13 @@ Mathematics educator and data analyst with extensive experience in **research, t
 * GitHub
 * Google sites
 
+## Transferable Skills
+* Critical thinking & logical reasoning
+* Methodical problem-solving approach
+* Excellent attention to detail
+* Strong communication skills
+* Working under Pressure
+* Adapt new environment
 
 ---
 
