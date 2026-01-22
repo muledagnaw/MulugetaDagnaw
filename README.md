@@ -35,8 +35,6 @@ Mathematics educator and data analyst with extensive experience in **research, t
 ---
 
 
----
-
 ## 🚀 Why Data Technician?
 
 * I wanted a **structured, hands-on pathway** to transition my 🧮 **mathematical** and 📊 **analytical skills** into a **data role**.
@@ -47,20 +45,20 @@ Mathematics educator and data analyst with extensive experience in **research, t
 ## 🎓 During Data techinician Bootcam Training
 * 💻 I have developed the ability to **analyze real-world datasets** using a variety of **software tools** 🛠️ and **cloud computing platforms** ☁️.
 
-## 🛠️ Core Technical Skills
+### 🛠️ Core Technical Skills
 
-### 📊 Data Analysis 
+#### 📊 Data Analysis 
 
 * Excel (Advanced formulas, Pivot Tables)
 * Power BI (DAX, data modelling, automated reports, dashboards)
 * Tableau (interactive dashboards, calculated fields)
 
-### 💻 Programming & Databases
+#### 💻 Programming & Databases
 
 * Python (Pandas, NumPy, Matplotlib)
 * SQL / MySQL (joins, views, stored procedures)
 
-### ☁️ Cloud & Platforms
+#### ☁️ Cloud & Platforms
 
 * Azure (Azure SQL Database, cloud storage)
 * GitHub
@@ -78,7 +76,7 @@ Mathematics educator and data analyst with extensive experience in **research, t
 
 ## 🌱 Current Focus
 
-* Strengthening **SQL, Power BI, Tableau , Excel and cloud data skills**
+* Strengthening **SQL, Power BI, Tableau , Excel and cloud data skills Azure**
 * Transitioning into **Data Analyst roles**
 
 ---
