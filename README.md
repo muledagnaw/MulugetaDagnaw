@@ -65,7 +65,7 @@ Mathematics educator and data analyst with extensive experience in **research, t
 ---
 
 ## 📫 Connect With Me
-*    [GitHub](https://github.com/muledagnaw/MulugetaDagnaw)
+* 🐙[GitHub](https://github.com/muledagnaw/MulugetaDagnaw)
 * 🔗 [LinkedIn](https://www.linkedin.com/in/mulugeta-alemayehu-dagnaw/)
 * 🎓 [Google Scholar](https://scholar.google.com/citations?user=9TEFWOAAAAAJ&hl=en)
 * 🧪 [ResearchGate](https://www.researchgate.net/profile/Mulugeta_Dagnaw2)
