@@ -1,4 +1,3 @@
-
 # 👋 Mulugeta Alemayehu Dagnaw
 
 🔍 **Mathematics Educator | Data Analyst | Data Technician**
