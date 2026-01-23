@@ -45,25 +45,42 @@ I am a mathematics educator and data analyst with extensive experience in resear
 ## 🎓 During Data techinician Bootcam Training
 * 💻 I have developed the ability to **analyze real-world datasets** using a variety of **software tools** 🛠️ and **cloud computing platforms** ☁️.
 
-### 🛠️ Core Technical Skills
 
-#### 📊 Data Analysis 
+## 🛠️ Core Skills  
+Here are the tools and technologies I use to solve problems and craft data-driven stories:  
 
-* Excel (Advanced formulas, Pivot Tables)
-* Power BI (DAX, data modelling, automated reports, dashboards)
-* Tableau (interactive dashboards, calculated fields)
+### 🧰 **Tools & Technologies**
+- **Excel**  
+  ![Excel](https://img.shields.io/badge/Excel-%23339933.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+  - Proficient in Pivot Tables, advanced formulas, and data cleaning.  
+  - Experienced with creating dashboards and reports using charts and conditional formatting.  
 
-#### 💻 Programming & Databases
+- **Tableau**  
+  ![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)  
+  - Expert in designing interactive visualizations and dashboards.  
+  - Skilled in creating calculated fields and advanced filters for actionable insights.  
 
-* Python (Pandas, NumPy, Matplotlib)
-* SQL / MySQL (joins, views, stored procedures)
+- **Power BI**  
+  ![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)  
+  - Deep knowledge of DAX for complex calculations and measures.  
+  - Experienced in data modeling, relationships, and report automation.  
 
-#### ☁️ Cloud & Platforms
+- **MySQL**  
+  ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+  - Proficient in writing optimized SQL queries for data extraction and transformation.  
+  - Skilled in creating stored procedures, views, and joins.  
 
-* Azure (Azure SQL Database, cloud storage)
-* GitHub
-* Google sites
+- **Azure**  
+  ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
+  - Familiar with Azure SQL Databases and cloud data solutions.  
+  - Experienced in deploying data projects and managing cloud storage.  
 
+- **Python**  
+  ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
+  - Skilled in data manipulation and analysis using Pandas and NumPy.  
+  - Proficient in data visualization using Matplotlib and Seaborn.  
+
+---
 ## Transferable Skills
 * Critical thinking & logical reasoning
 * Methodical problem-solving approach
