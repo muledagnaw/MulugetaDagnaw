@@ -115,15 +115,6 @@ Here are the tools and technologies I use to solve problems and craft data-drive
 
 ---
 
-## 📫 Contact Me
-Feel free to reach out via email: [malemayehu3@gmail.com](mailto:malemayehu3@gmail.com)  
-
----
-
-
-
----
-
 ## 📫 Connect With Me
 Feel free to reach out via 
 * 📧  [Email](mailto:malemayehu3@gmail.com)
