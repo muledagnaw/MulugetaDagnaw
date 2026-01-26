@@ -124,6 +124,8 @@ Feel free to reach out via email: [malemayehu3@gmail.com](mailto:malemayehu3@gma
 ---
 
 ## 📫 Connect With Me
+Feel free to reach out via 
+* 📧  [Email](mailto:malemayehu3@gmail.com)
 * 🐙 [GitHub](https://github.com/muledagnaw/MulugetaDagnaw)
 * 🔗 [LinkedIn](https://www.linkedin.com/in/mulugeta-alemayehu-dagnaw/)
 * 🎓 [Google Scholar](https://scholar.google.com/citations?user=9TEFWOAAAAAJ&hl=en)
