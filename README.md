@@ -108,11 +108,15 @@ Here are the tools and technologies I use to solve problems and craft data-drive
 - Organisation & Time Management ⏰  
 - Teamwork & Multi-tasking 🤝  
 ---
-## 🌱 Interests & Hobbies
-- Exploring real-world datasets and applying analytical techniques  
-- Reading 📖, Cycling 🚴‍♂️, and Mathematical games ♟️  
-- Creating clear, structured resources to explain complex information  
+Here’s your **Interests & Hobbies** section fully emoji-enhanced for GitHub:
 
+---
+
+## 🌱 Interests & Hobbies
+
+* 📊 Exploring real-world datasets and applying analytical techniques
+* 📖 Reading, 🚴‍♂️ Cycling, and ♟️ Mathematical games
+* 📝 Creating clear, structured resources to explain complex information
 ---
 
 ## 📫 Connect With Me
