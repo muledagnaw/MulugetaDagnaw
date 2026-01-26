@@ -31,28 +31,34 @@ I am a mathematics educator and aspiring data analyst with extensive experience 
 
 ---
 
-## 💼 Employment Experience
-
-
-
-**Academic Research Visitor** | Brunel University London (Jun 2024 – Jan 2025)  
-- Conducted and presented original mathematics research  
-- Attended national and international conferences  
-
-**Teaching & Data Entry Roles** | Injibara & Debre Tabor University, Ethiopia (2009 – 2024)  
-- Delivered courses at multiple levels  
-- Supported lesson planning, grading, and record-keeping  
-- Entered and managed data digitally, using Excel, Word, PowerPoint, MATLAB, and LaTeX  
+Absolutely! We can enhance your **Volunteer Experience** section with fitting emojis to make it visually appealing. Here's a version with emojis added for each role and key tasks:
 
 ---
- ## 💼 Volunteer Experience
- **Assistant – Volunteer** | Witney & West Oxfordshire Food Bank (Jun 2025 – Present)  
-- Managing and organizing donated food items  
-- Stock rotation and display arrangement
 
-  **Community Outreach Volunteer** | Multaka Project, University of Oxford (Jan 2025 – Jun 2025)  
-- Delivered presentations on historical instruments and calendars  
-- Engaged public audiences during museum events 
+## 💼 Employment & Volunteer Experience
+
+**👐 Assistant – Volunteer** | Witney & West Oxfordshire Food Bank (Jun 2025 – Present)
+
+* 📦 Managing and organizing donated food items
+* 🛒 Stock rotation and display arrangement
+* 🧹 Keeping the store clean and tidy
+
+**🔬 Academic Research Visitor** | Brunel University London (Jun 2024 – Jan 2025)
+
+* 📊 Conducted and presented original mathematics research
+* 🌍 Attended national and international conferences
+
+**🎓 Community Outreach Volunteer** | Multaka Project, University of Oxford (Jan 2025 – Jun 2025)
+
+* 🕰️ Delivered presentations on historical instruments and calendars
+* 🧪 Displayed and explained scientific instruments during public events
+
+**📚 Teaching & Data Entry Roles** | Injibara & Debre Tabor University, Ethiopia (2009 – 2024)
+
+* 👩‍🏫 Delivered courses at multiple levels
+* 📝 Supported lesson planning, grading, and record-keeping
+* 💻 Entered and managed data digitally, using Excel, Word, PowerPoint, MATLAB, and LaTeX
+
 ---
 
 ## 🛠️ Core Skills  
