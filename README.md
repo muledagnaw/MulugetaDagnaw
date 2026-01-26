@@ -13,25 +13,26 @@ I am a mathematics educator and aspiring data analyst with extensive experience 
 
 ---
 
+
 ## 🎓 Education & Training
 
-**Just IT Training Ltd, London** — Digital Skills Bootcamp: Data Technician L3 (Dec 2025 – Jan 2026)  
-- Data, Big Data, Data Structures, Architecture & Governance  
-- Data Analysis using Excel, Python (Pandas, Matplotlib, Seaborn)  
-- Data Visualisation with Tableau & Power BI  
-- Introduction to Databases - Azure & SQL  
-- Azure Fundamentals (SAAS, PAAS, IAAS, Relational & Non-relational data, MS Fabric)  
+**💻 Just IT Training Ltd, London** — Digital Skills Bootcamp: Data Technician L3 (Dec 2025 – Jan 2026)
 
-**Addis Ababa University, Ethiopia**  
-- PhD in Mathematics (2015–2019)  
-- MSc in Mathematics (2009–2011)  
+* 🗄️ Data, Big Data, Data Structures, Architecture & Governance
+* 📊 Data Analysis using Excel, Python (Pandas, Matplotlib, Seaborn)
+* 📈 Data Visualisation with Tableau & Power BI
+* 🛠️ Introduction to Databases - Azure & SQL
+* ☁️ Azure Fundamentals (SAAS, PAAS, IAAS, Relational & Non-relational data, MS Fabric)
 
-**Wollega University, Ethiopia**  
-- BSc in Mathematics (2007–2009)  
+**🎓 Addis Ababa University, Ethiopia**
 
----
+* 📜 PhD in Mathematics (2015–2019)
+* 📜 MSc in Mathematics (2009–2011)
 
-Absolutely! We can enhance your **Volunteer Experience** section with fitting emojis to make it visually appealing. Here's a version with emojis added for each role and key tasks:
+**🎓 Wollega University, Ethiopia**
+
+* 📜 BSc in Mathematics (2007–2009)
+
 
 ---
 
